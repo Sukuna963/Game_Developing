@@ -1,6 +1,6 @@
 # Game_Developing
 
-## Learning
+## Courses
 * [Unity Academy](https://learn.unity.com/)
 
 ## Music
