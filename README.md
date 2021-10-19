@@ -3,6 +3,9 @@
 ## Courses
 * [Unity Academy](https://learn.unity.com/)
 
+## Simulation
+* [Mujoco](https://mujoco.org/)
+
 ## Music
 * [Aiva - composing soundtrack](https://aiva.ai/)
 
