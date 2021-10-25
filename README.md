@@ -11,10 +11,17 @@
 
 ## Image
 * [PIXIE](https://pixie.is.tue.mpg.de/)
+* [Gimp](https://www.gimp.org/)
 
 ## Audio
 * [Aiva - composing soundtrack](https://aiva.ai/)
 * [Ardour](http://ardour.org/)
+
+## Modeling
+* [Blender](https://www.blender.org/)
+
+## Video
+* [Da Vinci](https://www.blackmagicdesign.com/es/products/davinciresolve/)
 
 ## Hacking
 * [Game Hacking Academy](https://gamehacking.academy/about)
