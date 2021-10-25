@@ -19,7 +19,7 @@
 
 ## Modeling
 * [Blender](https://www.blender.org/)
-* [OpebGl](https://www.opengl.org/)
+* [OpebGL](https://www.opengl.org/)
 
 ## Video
 * [Da Vinci](https://www.blackmagicdesign.com/es/products/davinciresolve/)
