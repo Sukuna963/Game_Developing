@@ -16,6 +16,7 @@
 ## Audio
 * [Aiva - composing soundtrack](https://aiva.ai/)
 * [Ardour](http://ardour.org/)
+* [Audacity](https://www.audacityteam.org/download/)
 
 ## Modeling
 * [Blender](https://www.blender.org/)
