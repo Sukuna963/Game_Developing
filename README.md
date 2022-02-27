@@ -2,6 +2,7 @@
 
 ## Courses
 * [Unity Academy](https://learn.unity.com/)
+* [3D Game Develpoment with LWJGL 3](https://ahbejarano.gitbook.io/lwjglgamedev/chapter1)
 
 ## Console
 * [Lakka](http://www.lakka.tv/)
