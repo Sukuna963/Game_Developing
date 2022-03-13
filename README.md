@@ -6,6 +6,7 @@
 
 ## Console
 * [Lakka](http://www.lakka.tv/)
+* [Proton](https://github.com/ValveSoftware/Proton/)
 
 ## Simulation
 * [Mujoco](https://mujoco.org/)
