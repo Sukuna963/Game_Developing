@@ -4,6 +4,7 @@
 * [Game Designing](https://www.gamedesigning.org/career/software/)
 * [Gdevelop](https://gdevelop.io/academy)
 * [Acadeny Zenva](https://academy.zenva.com/shop/)
+* [80lv](https://80.lv/)
 
 ## Console
 * [Lakka](http://www.lakka.tv/)
@@ -11,6 +12,7 @@
 
 ## Simulation
 * [Mujoco](https://mujoco.org/)
+* [Vitruvius](https://vitruviuskinect.com/)
 
 ## Image
 * [PIXIE](https://pixie.is.tue.mpg.de/)
