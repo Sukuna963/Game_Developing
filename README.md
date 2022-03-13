@@ -14,6 +14,7 @@
 * [PIXIE](https://pixie.is.tue.mpg.de/)
 * [Gimp](https://www.gimp.org/)
 * [Krita](https://krita.org/en/)
+* [Pinta](https://www.pinta-project.com/)
 
 ## Audio
 * [Aiva - composing soundtrack](https://aiva.ai/)
