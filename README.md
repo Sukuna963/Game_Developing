@@ -3,6 +3,7 @@
 * [3D Game Develpoment with LWJGL 3](https://ahbejarano.gitbook.io/lwjglgamedev/chapter1)
 * [Game Designing](https://www.gamedesigning.org/career/software/)
 * [Gdevelop](https://gdevelop.io/academy)
+* [Acadeny Zenva](https://academy.zenva.com/shop/)
 
 ## Console
 * [Lakka](http://www.lakka.tv/)
