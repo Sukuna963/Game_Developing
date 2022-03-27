@@ -6,6 +6,11 @@
 * [Acadeny Zenva](https://academy.zenva.com/shop/)
 * [80lv](https://80.lv/)
 
+## Cloud
+* [Azure GameDev](https://azure.microsoft.com/en-us/solutions/gaming/#overview)
+* [AWS Game Tech](https://aws.amazon.com/gametech/)
+* [Google Cloud for games](https://cloud.google.com/docs/games)
+
 ## Console
 * [Lakka](http://www.lakka.tv/)
 * [Proton](https://github.com/ValveSoftware/Proton/)
