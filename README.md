@@ -18,6 +18,7 @@
 ## Simulation
 * [Mujoco](https://mujoco.org/)
 * [Vitruvius](https://vitruviuskinect.com/)
+* [MyoSuite](https://sites.google.com/view/myosuite)
 
 ## Image
 * [PIXIE](https://pixie.is.tue.mpg.de/)
