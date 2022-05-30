@@ -36,6 +36,7 @@
 * [Blender](https://www.blender.org/)
 * [OpebGL](https://www.opengl.org/)
 * [Daz3D](https://www.daz3d.com/get_studio)
+* [Spline](https://docs.spline.design/)
 
 ## Animation
 * [OpenToonz](https://opentoonz.github.io/e/index.html)
